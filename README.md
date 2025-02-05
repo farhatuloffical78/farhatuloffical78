@@ -30,7 +30,7 @@ I am a passionate frontend developer with a BSc in Computer Science and Engineer
 - 🌱 I’m currently learning React and Next JS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about something related to Web development 
-- 📫 How to reach me: mdfarhatulhaider@gmail.com 
+- 📫 Contact Number: +8801641547983
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhatuloffical78)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-farhatul-haider-0661402a0/)
