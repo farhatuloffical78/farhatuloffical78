@@ -25,6 +25,8 @@ I am a passionate frontend developer with a BSc in Computer Science and Engineer
   
 </div>
 
+---
+
 - 🌱 I’m currently learning React and Next JS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about something related to Web development 
