@@ -2,7 +2,8 @@
 #### I am a Frontend Devloper.
 ![I am a Frontend Devloper.](https://github.com/farhatuloffical78/farhatuloffical78/blob/main/banner.png)
 
-I am a passionate frontend developer with a BSc in Computer Science and Engineering from Daffodil International University. I recently completed a 3-month remote web development internship. Proficient in HTML, JavaScript (including ES6), CSS, Tailwind CSS, and React. Currently, I am expanding my knowledge by learning Next.js to enhance my capabilities further.In addition to my technical skills, I have a strong enthusiasm for continuous learning and keeping up with the latest trends in web development. Outside of coding, I enjoy playing cricket, which fuels my team spirit and dedication.
+I am a passionate frontend developer with a BSc in Computer Science and Engineering from Daffodil International University. I recently completed a 3-month remote web development internship. Proficient in HTML, JavaScript (including ES6), CSS, 
+Tailwind CSS, and React. Currently, I am expanding my knowledge by learning Next.js to enhance my capabilities further.In addition to my technical skills, I have a strong enthusiasm for continuous learning and keeping up with the latest trends in web development. Outside of coding, I enjoy playing cricket, which fuels my team spirit and dedication.
 ### Skills  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
