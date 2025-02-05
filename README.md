@@ -34,12 +34,12 @@ I am a passionate frontend developer with a BSc in Computer Science and Engineer
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhatuloffical78)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://www.linkedin.com/in/md-farhatul-haider-0661402a0/)  
 
 ### 📊 GitHub Stats  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhatuloffical78)](https://github.com/anuraghazra/github-readme-stats)  
 [![Farhatuloffical78's GitHub stats](https://github-readme-stats.vercel.app/api?username=farhatuloffical78&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=farhatuloffical78)](https://git.io/streak-stats)  
+
 
 
